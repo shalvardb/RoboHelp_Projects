@@ -1,0 +1,49 @@
+{
+  "recent-files::internal:document": [{
+    "title": "First_Topic",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Jan 19, 11:54 AM"
+  }, {
+    "title": "Default",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/contents/Default.htm",
+    "pinned": false,
+    "time": "Jan 19, 11:54 AM"
+  }, {
+    "title": "PDF",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/publish/presets/PDF.preset",
+    "pinned": false,
+    "time": "Jan 19, 11:50 AM"
+  }, {
+    "title": "Word Document",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/publish/presets/Word Document.preset",
+    "pinned": false,
+    "time": "Jan 19, 11:48 AM"
+  }, {
+    "title": "Default",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/toc/Default.toc",
+    "pinned": false,
+    "time": "Jan 17, 11:57 AM"
+  }],
+  "recent-files::internal:hyperlink": [{
+    "title": "Default",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/contents/Default.htm",
+    "pinned": false,
+    "time": "Jan 17, 11:58 AM"
+  }],
+  "generate.outputs": {
+    "C:/Users/shalvar/Documents/My RoboHelp Projects/test/publish/presets/Word Document.preset": {
+      "exists": true,
+      "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/outputs/test/Word Document/Default.docx",
+      "time": "2023-01-19T11:49:53+05:30",
+      "logFile": "C:/Users/shalvar/AppData/Local/Temp/RHTMP/Word Document.ehtml"
+    },
+    "C:/Users/shalvar/Documents/My RoboHelp Projects/test/publish/presets/PDF.preset": {
+      "exists": true,
+      "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/outputs/test/PDF/Default.pdf",
+      "time": "2023-01-19T11:50:16+05:30",
+      "logFile": "C:/Users/shalvar/AppData/Local/Temp/RHTMP/PDF.ehtml"
+    }
+  },
+  "file-modified": "2023-01-19T11:55:08+05:30"
+}
