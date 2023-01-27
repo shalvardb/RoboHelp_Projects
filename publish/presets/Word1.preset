@@ -2,4 +2,5 @@
 <preset>
   <name>Word Document</name>
   <type>word</type>
+  <content></content>
 </preset>

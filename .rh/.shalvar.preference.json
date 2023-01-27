@@ -1,5 +1,20 @@
 {
   "recent-files::internal:document": [{
+    "title": "Default",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/Test_project123/toc/Default.toc",
+    "pinned": false,
+    "time": "Jan 27, 11:43 AM"
+  }, {
+    "title": "new_topic",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/Test_project123/contents/new_topic.htm",
+    "pinned": false,
+    "time": "Jan 27, 11:43 AM"
+  }, {
+    "title": "First_Topic",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/Test_project123/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Jan 27, 11:42 AM"
+  }, {
     "title": "First_Topic",
     "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/contents/First_Topic.htm",
     "pinned": false,
@@ -26,6 +41,11 @@
     "time": "Jan 17, 11:57 AM"
   }],
   "recent-files::internal:hyperlink": [{
+    "title": "new_topic",
+    "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/Test_project123/contents/new_topic.htm",
+    "pinned": false,
+    "time": "Jan 27, 11:43 AM"
+  }, {
     "title": "Default",
     "path": "C:/Users/shalvar/Documents/My RoboHelp Projects/test/contents/Default.htm",
     "pinned": false,

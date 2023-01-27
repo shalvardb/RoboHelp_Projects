@@ -19,7 +19,7 @@
   </content>
   <starterPage>index.htm</starterPage>
   <search>
-    <context>keyword</context>
+    <context>description</context>
     <contextLimit>100</contextLimit>
     <suggestion type="boolean">true</suggestion>
     <fuzzy type="boolean">true</fuzzy>

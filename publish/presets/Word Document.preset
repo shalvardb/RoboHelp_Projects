@@ -3,7 +3,6 @@
   <name>Word Document</name>
   <type>word</type>
   <content>
-    <index type="boolean">false</index>
     <toc>
       <path>../../toc/Default.toc</path>
       <name>Default</name>
@@ -15,8 +14,7 @@
     <relativeOutputPath type="boolean">false</relativeOutputPath>
   </content>
   <template>
-    <path>(default)</path>
-    <name>(default)</name>
+    <path>../templates/Word Document/word.tpl</path>
   </template>
   <word>
     <stylemapping>{&quot;selectorMap&quot;:{},&quot;discardSelectors&quot;:[],&quot;identityMappedSelectors&quot;:[]}</stylemapping>
@@ -33,7 +31,8 @@
     <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
   </search>
   <pdf>
-    <startTopicsFromNewPage type="boolean">false</startTopicsFromNewPage>
+    <splitPdf type="boolean">false</splitPdf>
   </pdf>
   <use_thumbnails type="boolean">false</use_thumbnails>
+  <excludeTopicCss type="boolean">true</excludeTopicCss>
 </preset>

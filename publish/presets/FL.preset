@@ -2,4 +2,7 @@
 <preset>
   <name>Frameless</name>
   <type>frameless</type>
+  <search>
+    <context>keyword</context>
+  </search>
 </preset>
